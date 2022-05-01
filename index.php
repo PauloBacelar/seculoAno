@@ -27,7 +27,7 @@ if (isset($_GET['ano'])) {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 
-    <title>Função secularAno()</title>
+    <title>Ano/século</title>
     <link rel="stylesheet" href="./styles.css">
   </head>
 
